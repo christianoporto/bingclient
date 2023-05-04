@@ -1,0 +1,16 @@
+{
+  "components": {
+    "search": {
+      "askMeAnything": "Pregúntame cualquier cosa",
+      "images": "Imágenes",
+      "relatedSearches": "Búsquedas relacionadas",
+      "results": "Resultados",
+      "videos": "Videos",
+      "welcomeToBing": "Bienvenido a Bing"
+    },
+    "searchHeader": {
+      "changeLang": "Cambiar Lenguaje",
+      "changeTheme": "Cambiar Tema"
+    }
+  }
+}
